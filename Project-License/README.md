@@ -4,7 +4,7 @@
 
 ### 开源软件协议论文
 
-[开源软件协议论文阅读笔记]()
+[开源软件协议论文阅读笔记](https://github.com/JayFrank/Open_Source_Software_Research/blob/master/Project-License/ReadingNotes.md)
 
 
 ## 外部素材
