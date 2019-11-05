@@ -12,7 +12,7 @@ FOSS licenses can generally be divided into two models: copyleft licenses and no
 三个开源协议集合：
 - Open Source Initiative（开放源代码促进会）批准的所有开源软件许可证：https://opensource.org/licenses
 - Linux Foundation’s Software Package Data Exchange project能够找到的开源许可证：https://spdx.org/licenses/
-- IfrOSS：http://www.ifross.org/en/license-center
+- ifrOSS：http://www.ifross.org/en/license-center
 
 
 
