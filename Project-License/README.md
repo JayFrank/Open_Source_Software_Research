@@ -1,7 +1,7 @@
 # 开源软件协议-研究项目
 
 ## 资源网站
-[SOFTWARE RESEARCH AND THE INDUSTRY](https://dirkriehle.com/)
+[SOFTWARE RESEARCH AND THE INDUSTRY](https://dirkriehle.com/2019/04/23/open-source-expanded-just-started/)
 
 
 ## 非论文素材汇总
