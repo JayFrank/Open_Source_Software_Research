@@ -14,5 +14,9 @@
 
 
 ### 资源网站
+[开源之道]（http://ocselected.org/）
+
 [SOFTWARE RESEARCH AND THE INDUSTRY](https://dirkriehle.com/2019/04/23/open-source-expanded-just-started/)
+
+[Linux基金会-CHAOSS Metrics]（https://chaoss.community/metrics/）
 
