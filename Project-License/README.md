@@ -21,4 +21,5 @@
 [SOFTWARE RESEARCH AND THE INDUSTRY](https://dirkriehle.com/2019/04/23/open-source-expanded-just-started/)
 
 [Linux基金会-CHAOSS Metrics](https://chaoss.community/metrics/)
+> 其介绍可参考 [开源软件项目的定性和定量分析指标-CHAOSS 指标解析](http://ocselected.org/posts/community_management/chaoss_metrics_201908_learning/)
 
