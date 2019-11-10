@@ -1,4 +1,4 @@
-# 开源软件合规-为何与怎样做？ 
+# 开源软件许可证合规-为何与怎样做？ 
 原文：[Open Source License Compliance — Why and How?](https://ieeexplore.ieee.org/document/8780404)
 
 ## 摘要
